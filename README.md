@@ -1,4 +1,4 @@
-# MD-LP-noise-robustness-evaluation
+# MDLP_NR: original implementation
 
 > **Archive note:** this repository keeps the original `MDLP_NR` implementation and accompanying notes.
 > The current reorganized implementation is at [MD-LP-noise-robustness-evaluation](https://github.com/RuifengZhou-dlut/MD-LP-noise-robustness-evaluation).
